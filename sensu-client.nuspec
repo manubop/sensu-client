@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>sensu-client</id>
+    <version>0.29</version>
+    <title>sensu</title>
+    <authors>manubop</authors>
+    <owners>sensu</owners>
+    <licenseUrl>https://sensuapp.org/sensu-license</licenseUrl>
+    <projectUrl>https://sensuapp.org</projectUrl>
+    <iconUrl>https://sensuapp.org/img/logo-flat-white.png</iconUrl>
+    <packageSourceUrl>http://localhost</packageSourceUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Full-stack monitoring for today's business.</description>
+    <summary>Sensu is an open-core monitoring platform that empowers organizations to compose comprehensive monitoring &amp; telemetry solutions that meet their unique business requirements. By providing a platform to build upon, Sensu enables you to focus on what to monitor and measure, rather than how.</summary>
+    <releaseNotes>https://sensuapp.org/docs/0.29/overview/changelog.html</releaseNotes>
+    <copyright>Sensu Inc</copyright>
+    <tags>sensu admin</tags>
+  </metadata>
+</package>
